@@ -1,3 +1,5 @@
-| Week # | Contribution                                           |  Contribution Type |
-|--------|--------------------------------------------------------|--------------------|
-| 6      |   Asked a question that resulted in a   license change | NEETCoin           |
+| Week # | Contribution                    |  Contribution Type |
+|--------|---------------------------------|--------------------|
+| 6      | Licsense change                 | NEETCoin           |
+| 10     | Pull request for relative links | Course Website     |
+|        |                                 |                    |
