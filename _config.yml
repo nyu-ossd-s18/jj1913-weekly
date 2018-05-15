@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Juan
 
 # CUSTOMIZE
 # Short bio or description (displayed in the header)
@@ -15,7 +15,7 @@ avatar: https://avatars2.githubusercontent.com/u/35243561?s=200&v=4
 
 # CUSTOMIZE
 #
-# Flags below are optional - customize them if you wish 
+# Flags below are optional - customize them if you wish
 #
 
 # Includes an icon in the footer for each username you enter
@@ -28,19 +28,19 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # CUSTOMIZE
 # Your website URL (e.g. https://nyu-ossd-s18.github.io/weekly )
-# Replace the last part by the name of your own repository. It should be "/weekly-" followed by your username. 
-url: "https://nyu-ossd-s18.github.io/weekly" 
-
+# Replace the last part by the name of your own repository. It should be "/weekly-" followed by your username.
+url: https://nyu-ossd-s18.github.io/jj1913-weekly
 # CUSTOMIZE
 # Replace this with the name of your own repository. It should be "/weekly-" followed by your username.
-baseurl: "/weekly"
+baseurl: /jj1913-weekly
+
 
 #
 # !! You don't need to change any of the configuration flags below !!
